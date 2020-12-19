@@ -1,0 +1,8 @@
+*.exe
+*.o
+test.csv
+*.json
+*.out
+37.c
+16week.c
+error.txt
